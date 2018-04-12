@@ -10,6 +10,7 @@ namespace TestGit12042018
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
